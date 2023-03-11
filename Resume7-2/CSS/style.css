@@ -19,7 +19,7 @@ ul li{
     list-style-type: circle;
 }
 .header{
-    background-image: url('file:///C:/Users/Administrator.STUDENT-23/Desktop/Elvin-code/Intro-to-web/Resume7-2/Images/modern-background-with-lines.jpg'), url('file:///C:/Users/Administrator.STUDENT-23/Desktop/Elvin-code/Intro-to-web/Resume7-2Images/modern-background-with-lines.jpg');
+    background-image: url('file:///C:/Users/Administrator.STUDENT-23/Desktop/Elvin-code/Intro-to-web/Resume7-2/Images/modern-background-with-lines.jpg'), url('/Images/modern-background-with-lines.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     border-radius: 15px 15px 0 0;
